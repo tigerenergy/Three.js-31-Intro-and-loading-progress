@@ -13,7 +13,7 @@ const cubeTextureLoader = new THREE.CubeTextureLoader()
  * Base
  */
 // Debug
-const debugObject = {}
+const debugObject = {} 
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
